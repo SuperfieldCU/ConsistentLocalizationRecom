@@ -1,0 +1,65 @@
+
+title: Consistent Localization Re:Chain of Memories
+originalAuthor: Superfield
+description: Part of a mod series intended to reduce inconsistencies between the English localizations.
+assets:
+
+- name: remastered/FORM/0110/FO0110.CTD/UK_CT0014.ctdl
+  method: copy
+  source:
+  - name: form/0110_CL_CT0014.ctdl
+
+- name: remastered/FORM/0112/FO0112.CTD/UK_CT0014.ctdl
+  method: copy
+  source:
+  - name: form/0112_CL_CT0014.ctdl
+
+- name: remastered/FORM/0331/FO0331.RTM/UK_help_stock.imz
+  method: copy
+  source:
+  - name: form/0331_CL_help_stock.imz
+
+- name: remastered/FORM/0332/FO0332.RTM/UK_help_stock.imz
+  method: copy
+  source:
+  - name: form/0332_CL_help_stock.imz
+
+- name: remastered/FORM/0369/FO0369.RTM/UK_help_stock.imz
+  method: copy
+  source:
+  - name: form/0369_CL_help_stock.imz
+
+- name: remastered/FORM/0373/FO0373.RTM/UK_help_stock.imz
+  method: copy
+  source:
+  - name: form/0373_CL_help_stock.imz
+
+- name: remastered/FORM/0385/FO0385.RTM/UK_help_stock.imz
+  method: copy
+  source:
+  - name: form/0385_CL_help_stock.imz
+
+- name: remastered/FORM/0391/FO0391.RTM/UK_help_stock.imz
+  method: copy
+  source:
+  - name: form/0391_CL_help_stock.imz
+
+- name: remastered/SYS/0001/SY0001.CTD/UK_CT0000.ctdl
+  method: copy
+  source:
+  - name: sys/CL_CT0000.ctdl
+
+- name: remastered/SYS/0002/SY0002.CTD/UK_CT0001.ctdl
+  method: copy
+  source:
+  - name: sys/CL_CT0001.ctdl
+
+- name: remastered/SYS/0002/SY0002.CTD/UK_CT0020.ctdl
+  method: copy
+  source:
+  - name: sys/CL_CT0020.ctdl
+
+- name: remastered/SYS/0002/SY0002.CTD/UK_CT0021.ctdl
+  method: copy
+  source:
+  - name: sys/CL_CT0021.ctdl
