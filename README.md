@@ -29,25 +29,31 @@ The four playable games in the Kingdom Hearts HD I.5+II.5 ReMIX collection and D
 The following is a brief overview of text changes made. This is as exhaustive as I could make it without being overly specific or repetitive:
 
 ### System
-* Skip Event -> Skip Scene
+| Stock | Modded | Notes |
+| --- | --- | --- |
+| Skip Event | Skip Scene | |
 
 ### Abilities
-* Guard -> Block
-* Super Glide -> Superglide
-  * Tutorial images were adjusted to account for this change
-* Confu-Strike -> Confuse Strike
-* Draw -> Treasure Magnet
-* Shot Charge -> Shot Boost
+| Stock | Modded | Notes |
+| --- | --- | --- |
+| Guard | Block | |
+| Super Glide | Superglide | Tutorial images were adjusted to account for this change |
+| Confu-Strike | Confuse Strike | |
+| Draw | Treasure Magnet | |
+| Shot Charge | Shot Boost | |
 
 ### Sleights
 Tutorial images were adjusted to account for all of the changes to Sleight names.
 
-* Freeze -> Deep Freeze
-* Holy -> Faith
-* Holy Burst -> Burst of Faith
-* Cross-slash -> Cross Slash
-* Cross-slash+ -> Cross Slash+
+| Stock | Modded | Notes |
+| --- | --- | --- |
+| Freeze | Deep Freeze | |
+| Holy | Faith | |
+| Holy Burst | Burst of Faith | |
+| Cross-slash | Cross Slash | |
+| Cross-slash+ | Cross Slash+ | |
 
 ### Enemies
-* Crescendo -> Loudmouth
-  * Affects the name of the enemy card and related journal entries
+| Stock | Modded | Notes |
+| --- | --- | --- |
+| Crescendo | Loudmouth | Affects the name of the enemy card and related journal entries |
